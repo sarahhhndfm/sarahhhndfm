@@ -40,5 +40,3 @@ For questions or professional networking:
 - 🌱 Expanding expertise in full-stack development and software engineering
 
 “Creating the future, one line of code at a time” ✨
-
-Translated with DeepL.com (free version)
