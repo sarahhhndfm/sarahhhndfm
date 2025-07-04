@@ -40,3 +40,15 @@ For questions or professional networking:
 - 🌱 Expanding expertise in full-stack development and software engineering
 
 “Creating the future, one line of code at a time” ✨
+
+📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahhhndfm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarahhhndfm&theme=radical&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhhndfm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+</div>
