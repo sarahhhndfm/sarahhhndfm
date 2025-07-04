@@ -52,3 +52,7 @@ For questions or professional networking:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhhndfm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
 </div>
+
+🔥 Contribution Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarahhhndfm&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
