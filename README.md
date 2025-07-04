@@ -32,7 +32,6 @@ Open to exchanging knowledge and collaborating on:
 📫 Contact Me
 For questions or professional networking:
 - 💼 [LinkedIn](www.linkedin.com/in/nada-fitria-muyassarah-7b3379305)
-- [Twitter] (https://x.com/SarahRa871857?t=wCZak85KsabB28Uwn0ctwg&s=09)
 - 📧 Feel free to reach out for collaboration opportunities!
 
 🔥 Beyond Code
