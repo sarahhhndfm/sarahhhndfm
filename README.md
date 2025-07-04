@@ -29,11 +29,6 @@ Open to exchanging knowledge and collaborating on:
 - Academic assignments and learning processes
 - Discussions about technology and code evaluation
 
-📫 Contact Me
-For questions or professional networking:
-- 💼 [LinkedIn](www.linkedin.com/in/nada-fitria-muyassarah-7b3379305)
-- 📧 Feel free to reach out for collaboration opportunities!
-
 🔥 Beyond Code
 - 📚 A passionate learner always seeking the latest technologies
 - 🎯 A goal-oriented student focused on developing practical applications
