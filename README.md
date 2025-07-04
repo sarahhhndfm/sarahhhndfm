@@ -41,6 +41,16 @@ For questions or professional networking:
 
 “Creating the future, one line of code at a time” ✨
 
+<div align="center">
+  
+Hello World! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Open+Source+Contributor;Student+at+Universitas+Dharma+Andalas;Web+Developer;Java+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sarahhhndfm&label=Profile%20views&color=F85D7F&style=flat)
+
 📊 GitHub Analytics
 
 <div align="center">
@@ -53,11 +63,8 @@ For questions or professional networking:
 
 </div>
 
---
 
 🔥 Contribution Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarahhhndfm&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
---
-![Profile Views](https://komarev.com/ghpvc/?username=sarahhhndfm&label=Profile%20views&color=F85D7F&style=flat)
