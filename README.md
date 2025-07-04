@@ -53,6 +53,11 @@ For questions or professional networking:
 
 </div>
 
+--
+
 🔥 Contribution Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarahhhndfm&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+--
+![Profile Views](https://komarev.com/ghpvc/?username=sarahhhndfm&label=Profile%20views&color=F85D7F&style=flat)
