@@ -7,21 +7,14 @@
 ---
 
 ## 🌟 About Me
-```javascript
-const nada = {
-    name: "Nada Fitria Muyassarah",
-    role: "Software Developer & Student",
-    university: "Dharma Andalas University",
-    passion: "Creating functional applications that make a difference",
-    location: "Indonesia",
-    currentlyLearning: "React.js & Node.js",
-    funFact: "Suka ngoding sambil denger lagu Indonesia Raya 🎵",
-    motto: "Creating the future, one line of code at a time ✨",
-    favoriteFood: "Nasi Goreng + Kopi ☕",
-    hobby: "Debugging sampai subuh 😅",
-    academicFocus: "Web Development & Object-Oriented Programming"
-};
-```
+
+Hi there! 👋 I'm **Nada Fitria Muyassarah**, a passionate software developer and enthusiastic student at **Dharma Andalas University**. I love creating functional applications that make a real difference in people's lives! 
+
+Currently pursuing my Bachelor's degree with a focus on **Web Development** and **Object-Oriented Programming**, I'm constantly learning and exploring new technologies. My journey in coding started with Java and has evolved to include PHP, HTML/CSS, and various web technologies.
+
+**Fun fact**: I enjoy coding while listening to Indonesian music, and my debugging sessions often extend into the early hours! ☕ My motto is *"Creating the future, one line of code at a time"* ✨
+
+When I'm not coding, you'll find me exploring new technologies, collaborating on academic projects (PPW1, PPW2, PBO2), or sharing knowledge with fellow developers. I'm always open to learning opportunities and exciting collaborations!
 
 ## 🎓 Academic Journey
 - 🎓 **Bachelor's Degree** at Dharma Andalas University
