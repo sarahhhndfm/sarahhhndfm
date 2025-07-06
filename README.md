@@ -1,7 +1,11 @@
 # 🎯 Nada Fitria Muyassarah
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Development+Enthusiast;Java+%26+PHP+Developer;Student+at+Dharma+Andalas+University" alt="Typing SVG" />
+
+**Software Developer | Web Development Enthusiast | Java & PHP Developer**
+
+**Student at Dharma Andalas University**
+
 </div>
 
 <div align="center">
@@ -54,18 +58,6 @@ I am actively seeking opportunities to contribute to meaningful projects and col
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahhhndfm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&icon_color=FF6B9D" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahhhndfm&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakNum=FFFFFF&currStreakLabel=FF6B9D&sideNums=FFFFFF&sideLabels=FF6B9D&dates=FFFFFF" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhhndfm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
@@ -191,34 +183,6 @@ Tools: Git, VS Code, XAMPP
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarahhhndfm)
-  
-</div>
-
----
-
-## 🎉 Visitor Counter
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarahhhndfm&style=flat-square&color=FF6B9D&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarahhhndfm&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Let's+connect!;Feel+free+to+reach+out+for+collaborations" alt="Thanks Message" />
-  
-  <br>
-  
-  ![Snake animation](https://github.com/sarahhhndfm/sarahhhndfm/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
