@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/University-Dharma+Andalas-blue?style=for-the-badge" />
+
+**Status: Available for Projects** | **Location: Indonesia** | **University: Dharma Andalas**
+
 </div>
 
 ---
@@ -19,9 +19,9 @@
 ## 👩‍💻 About Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Software+Developer-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full+Stack+Development-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-2+Years-green?style=for-the-badge" />
+
+**Role: Software Developer** | **Focus: Full-Stack Development** | **Experience: 2 Years**
+
 </div>
 
 I am **Nada Fitria Muyassarah**, a dedicated software developer and computer science student at **Dharma Andalas University**. With a strong foundation in both frontend and backend development, I specialize in creating robust web applications and desktop solutions that address real-world challenges.
@@ -36,40 +36,33 @@ I am actively seeking opportunities to contribute to meaningful projects and col
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-
 ### 🎯 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Java** - Desktop applications, OOP
+- **PHP** - Backend development, web applications
+- **JavaScript** - Frontend interactivity, dynamic content
 
 ### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **HTML5** - Semantic markup, accessibility
+- **CSS3** - Responsive design, modern styling
+- **Bootstrap** - UI framework, mobile-first approach
 
 ### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- **MySQL** - Database management, data modeling
+- **Git** - Version control, collaboration
+- **GitHub** - Code hosting, project management
 
 ### 🛠️ Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-</div>
+- **VS Code** - Code editor, extensions
+- **NetBeans** - Java IDE, debugging
+- **XAMPP** - Local development environment
 
 ---
 
 ## 🏆 Featured Projects
 
 ### 🛒 UncleSole E-commerce Platform
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grade-A%20(4.00)-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-E-commerce-orange?style=for-the-badge" />
-</div>
+
+**Status: Completed** | **Grade: A (4.00)** | **Type: E-commerce**
 
 **🎯 Project Overview:**
 > A comprehensive e-commerce solution with modern UI/UX and robust backend architecture
@@ -92,11 +85,8 @@ Tools: Git, VS Code, XAMPP
 ---
 
 ### 📦 SME Inventory Management System
-<div align="center">
-  <img src="https://img.shields.io/badge/Type-Desktop%20Application-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-</div>
+
+**Type: Desktop Application** | **Language: Java** | **Status: Completed**
 
 **🎯 Project Overview:**
 > Java-based desktop application for small business inventory management
@@ -111,11 +101,8 @@ Tools: Git, VS Code, XAMPP
 ---
 
 ### 🌐 Personal Landing Page
-<div align="center">
-  <img src="https://img.shields.io/badge/Type-Web%20Design-pink?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-</div>
+
+**Type: Web Design** | **Responsive: Yes** | **Status: Completed**
 
 **🎯 Project Overview:**
 > Modern, responsive web interface showcasing personal portfolio
@@ -130,8 +117,6 @@ Tools: Git, VS Code, XAMPP
 
 ## 🎯 Skills Matrix
 
-<div align="center">
-
 | Category | Skills | Proficiency |
 |----------|--------|-------------|
 | **Backend Development** | PHP, MySQL, REST APIs | ⭐⭐⭐⭐⭐ |
@@ -140,19 +125,11 @@ Tools: Git, VS Code, XAMPP
 | **Version Control** | Git, GitHub | ⭐⭐⭐⭐⭐ |
 | **Database Management** | MySQL, Database Design | ⭐⭐⭐⭐ |
 
-</div>
-
 ---
 
 ## 🚀 Current Status & Goals
 
-<div align="center">
-  
-  ![Currently Learning](https://img.shields.io/badge/Learning-React.js%20%26%20Node.js-blue?style=for-the-badge&logo=react)
-  ![Available For](https://img.shields.io/badge/Available%20For-Collaborations-green?style=for-the-badge)
-  ![Open To](https://img.shields.io/badge/Open%20To-New%20Opportunities-purple?style=for-the-badge)
-  
-</div>
+**Currently Learning: React.js & Node.js** | **Available For: Collaborations** | **Open To: New Opportunities**
 
 ### 🎯 2024 Goals
 - [ ] 🚀 **Master React.js & Node.js**
@@ -177,21 +154,20 @@ Tools: Git, VS Code, XAMPP
 
 ## 📫 Connect With Me
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarahhhndfm)
-  
-</div>
+**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN)
+
+**Email:** [your.email@example.com](mailto:your.email@example.com)
+
+**Portfolio:** [Your Portfolio](https://your-portfolio.com)
+
+**GitHub:** [sarahhhndfm](https://github.com/sarahhhndfm)
 
 ---
 
 <div align="center">
-  
-  > *"Creating the future, one line of code at a time"* ✨
-  
-  **🌟 Star this repo if you found it helpful! 🌟**
-  
+
+> *"Creating the future, one line of code at a time"* ✨
+
+**🌟 Star this repo if you found it helpful! 🌟**
+
 </div> 
