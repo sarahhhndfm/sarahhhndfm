@@ -1,209 +1,65 @@
-# 🤖 AI-Powered Developer Profile
+Hi! 👋 I am Nada Fitria Muyassarah
+
+I am an enthusiastic student at Dharma Andalas University with a passion for creating and sharing projects related to web development and software engineering! I enjoy working with programming languages such as Java, PHP, and HTML/CSS, and I am constantly striving to learn new technologies.
+
+Currently, I am pursuing my education at Dharma Andalas University, with a focus on frontend and backend development through various projects related to my studies.
+
+🎓 Academic Journey
+- 🎓 Currently pursuing a Bachelor's degree at Dharma Andalas University
+- 📚 Actively involved in web programming and object-oriented programming projects
+- 🌟 Building functional applications as part of academic assignments (PPW1, PPW2, PBO2)
+
+⚡ Current Focus  
+Enhancing skills in the following areas:
+- Web Development (HTML, CSS, PHP, MySQL)
+- Object-Oriented Programming using Java
+- Full-Stack Development (Frontend + Backend)
+- Database Management and E-commerce Systems
+
+🚀 Featured Projects
+- 🛒 E-commerce Application - A platform built with PHP and MySQL, featuring a shopping cart system and admin panel
+- 📦 SME Inventory Management - A Java-based desktop application to assist in managing small businesses
+- 🌐 Personal Landing Page - Responsive web interface design created with HTML and CSS
+- 💼 CRUD Application - Database functionality and information management system
+
+🧠 Collaboration
+Open to exchanging knowledge and collaborating on:
+- Web development projects
+- Java-based applications
+- Academic assignments and learning processes
+- Discussions about technology and code evaluation
+
+🔥 Beyond Code
+- 📚 A passionate learner always seeking the latest technologies
+- 🎯 A goal-oriented student focused on developing practical applications
+- 🌱 Expanding expertise in full-stack development and software engineering
+
+“Creating the future, one line of code at a time” ✨
 
 <div align="center">
+  
+Hello World! 👋
 
-# **Nada Fitria Muyassarah**
-### *Software Developer & AI Enthusiast*
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🤖 AI-POWERED DEVELOPER                   ║
-║                                                              ║
-║  🎯 Software Developer | Web Development | Java & PHP        ║
-║  🎓 Student at Dharma Andalas University                    ║
-║  🌟 Creating the future, one line of code at a time         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Open+Source+Contributor;Student+at+Universitas+Dharma+Andalas;Web+Developer;Java+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=sarahhhndfm&label=Profile%20views&color=F85D7F&style=flat)
 
-## 🧠 **AI-Generated About Me**
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nada Fitria Muyassarah"
-        self.role = "Software Developer & AI Enthusiast"
-        self.university = "Dharma Andalas University"
-        self.location = "Indonesia"
-        self.passion = "Creating innovative solutions with AI"
-        self.skills = ["PHP", "Java", "MySQL", "HTML/CSS", "JavaScript"]
-        self.current_learning = ["React.js", "Node.js", "AI/ML"]
-        
-    def introduce(self):
-        return f"Hello! I'm {self.name}, a dedicated software developer and computer science student at {self.university}. I specialize in creating robust web applications and desktop solutions that address real-world challenges."
-        
-    def get_mission(self):
-        return "My mission is to leverage technology to solve complex problems and create meaningful impact through innovative software solutions."
-```
-
-**🤖 AI Analysis:** *This developer shows strong potential in full-stack development with a focus on practical applications and continuous learning.*
-
----
-
-## ⚡ **Tech Arsenal Matrix**
+📊 GitHub Analytics
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahhhndfm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-### 🔥 **Core Technologies**
-```
-┌─────────────────┬─────────────────┬─────────────────┐
-│   🎯 Backend    │   🎨 Frontend   │   🗄️ Database   │
-├─────────────────┼─────────────────┼─────────────────┤
-│     PHP 7.4+    │   HTML5/CSS3   │    MySQL 8.0   │
-│   Java (OOP)    │   Bootstrap 5   │   Data Modeling │
-│  RESTful APIs   │   JavaScript    │   Optimization  │
-└─────────────────┴─────────────────┴─────────────────┘
-```
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarahhhndfm&theme=radical&hide_border=true&background=0D1117)
 
-### 🛠️ **Development Tools**
-```
-┌─────────────────┬─────────────────┬─────────────────┐
-│   🔧 IDE/Editor │   📦 Platform   │   🔄 Version    │
-├─────────────────┼─────────────────┼─────────────────┤
-│   VS Code       │   XAMPP Stack   │   Git/GitHub   │
-│   NetBeans      │   Local Server  │   Collaboration │
-│   Extensions    │   Development   │   Code Review   │
-└─────────────────┴─────────────────┴─────────────────┘
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhhndfm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
 </div>
 
----
 
-## 🚀 **AI-Enhanced Projects**
+🔥 Contribution Activity
 
-### 🤖 **UncleSole E-commerce Platform**
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🛒 E-COMMERCE SOLUTION                    ║
-║                                                              ║
-║  Status: ✅ Completed | Grade: A (4.00) | Type: E-commerce  ║
-║  Tech: PHP + MySQL + Bootstrap + JavaScript                ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarahhhndfm&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**🎯 AI-Generated Overview:**
-> *Advanced e-commerce platform featuring intelligent product management, dynamic shopping cart, and comprehensive admin dashboard with real-time analytics.*
-
-**⚡ AI-Enhanced Features:**
-- 🔐 **Smart Authentication System** (Multi-level security)
-- 📦 **Intelligent Product Management** (CRUD with validation)
-- 🛒 **Dynamic Shopping Cart** (AJAX-powered interactions)
-- 💳 **Secure Payment Integration** (Multiple gateway support)
-- 📊 **Real-time Analytics Dashboard** (Data visualization)
-- 📱 **Responsive AI Design** (Mobile-first approach)
-
----
-
-### 🤖 **SME Inventory Management System**
-```
-╔══════════════════════════════════════════════════════════════╗
-║                 📦 INVENTORY MANAGEMENT AI                   ║
-║                                                              ║
-║  Type: Desktop Application | Language: Java | Status: ✅    ║
-║  Features: Real-time tracking + Reporting + Data backup     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**🎯 AI-Generated Overview:**
-> *Intelligent inventory management solution for small businesses with automated reporting and data backup capabilities.*
-
-**⚡ AI-Enhanced Features:**
-- 📊 **Smart Inventory Tracking** (Real-time updates)
-- 👥 **Multi-User Management** (Role-based access)
-- 📈 **Automated Reporting System** (Sales & Inventory)
-- 🔍 **Advanced Search & Filter** (AI-powered queries)
-- 💾 **Intelligent Data Backup** (Automated scheduling)
-
----
-
-### 🤖 **Personal Landing Page**
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🌐 PORTFOLIO SHOWCASE                    ║
-║                                                              ║
-║  Type: Web Design | Responsive: ✅ | Status: ✅ Completed  ║
-║  Features: Modern UI/UX + Fast Loading + Easy Maintenance   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**🎯 AI-Generated Overview:**
-> *Modern, responsive web interface showcasing professional portfolio with optimized performance and maintainable codebase.*
-
----
-
-## 🧠 **AI Skills Assessment**
-
-<div align="center">
-
-| Skill Category | Proficiency | AI Rating | Confidence |
-|---------------|-------------|-----------|------------|
-| **Backend Development** | ⭐⭐⭐⭐⭐ | 95% | High |
-| **Frontend Development** | ⭐⭐⭐⭐⭐ | 92% | High |
-| **Desktop Applications** | ⭐⭐⭐⭐ | 88% | Medium |
-| **Database Management** | ⭐⭐⭐⭐ | 90% | High |
-| **Version Control** | ⭐⭐⭐⭐⭐ | 96% | High |
-
-</div>
-
----
-
-## 🎯 **AI-Powered Goals 2024**
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🚀 FUTURE ROADMAP                         ║
-║                                                              ║
-║  [ ] Master React.js & Node.js (AI-enhanced learning)      ║
-║  [ ] Build Full-Stack Applications (AI-assisted dev)        ║
-║  [ ] Contribute to Open Source (AI-powered collaboration)   ║
-║  [ ] Learn Advanced Database Concepts (AI optimization)     ║
-║  [ ] Improve UI/UX Design Skills (AI design tools)         ║
-║  [ ] Develop Mobile Applications (AI mobile dev)            ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🤝 **AI-Enhanced Collaboration**
-
-**🤖 AI Recommendations for Collaboration:**
-- 🌐 **Web Development Projects** (AI-assisted coding)
-- ☕ **Java-based Applications** (AI code review)
-- 📚 **Academic Assignments** (AI learning support)
-- 💬 **Technology Discussions** (AI-powered insights)
-- 🔧 **Code Reviews & Evaluations** (AI analysis)
-
----
-
-## 📫 **Connect With AI-Powered Developer**
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🔗 CONNECT NETWORK                        ║
-║                                                              ║
-║  LinkedIn: [Your LinkedIn Profile]                          ║
-║  Email: [your.email@example.com]                            ║
-║  Portfolio: [Your Portfolio]                                ║
-║  GitHub: [sarahhhndfm]                                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🤖 AI-POWERED QUOTE                       ║
-║                                                              ║
-║  "Creating the future, one line of code at a time" ✨       ║
-║                                                              ║
-║  🌟 Star this repo if you found it helpful! 🌟              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div> 
