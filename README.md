@@ -1,65 +1,55 @@
-Hi! 👋 I am Nada Fitria Muyassarah
+# Hi, I'm Nada Fitria Muyassarah 👋
 
-I am an enthusiastic student at Dharma Andalas University with a passion for creating and sharing projects related to web development and software engineering! I enjoy working with programming languages such as Java, PHP, and HTML/CSS, and I am constantly striving to learn new technologies.
+> Informatics System Student @ Universitas Dharma Andalas · Padang, Indonesia
 
-Currently, I am pursuing my education at Dharma Andalas University, with a focus on frontend and backend development through various projects related to my studies.
+6th-semester student focused on web development, database management, and object-oriented programming. Building projects that bridge information systems and real-world business needs.
 
-🎓 Academic Journey
-- 🎓 Currently pursuing a Bachelor's degree at Dharma Andalas University
-- 📚 Actively involved in web programming and object-oriented programming projects
-- 🌟 Building functional applications as part of academic assignments (PPW1, PPW2, PBO2)
+---
 
-⚡ Current Focus  
-Enhancing skills in the following areas:
-- Web Development (HTML, CSS, PHP, MySQL)
-- Object-Oriented Programming using Java
-- Full-Stack Development (Frontend + Backend)
-- Database Management and E-commerce Systems
+## 🙋‍♀️ About Me
 
-🚀 Featured Projects
-- 🛒 E-commerce Application - A platform built with PHP and MySQL, featuring a shopping cart system and admin panel
-- 📦 SME Inventory Management - A Java-based desktop application to assist in managing small businesses
-- 🌐 Personal Landing Page - Responsive web interface design created with HTML and CSS
-- 💼 CRUD Application - Database functionality and information management system
+- 🎓 **Universitas Dharma Andalas** — S1 Sistem Informasi
+- 📍 Padang, West Sumatra, Indonesia
+- 📚 Semester 6 — currently deep in full-stack projects
+- 🎯 Focus: web development, OOP, database systems
 
-🧠 Collaboration
-Open to exchanging knowledge and collaborating on:
-- Web development projects
-- Java-based applications
-- Academic assignments and learning processes
-- Discussions about technology and code evaluation
+---
 
-🔥 Beyond Code
-- 📚 A passionate learner always seeking the latest technologies
-- 🎯 A goal-oriented student focused on developing practical applications
-- 🌱 Expanding expertise in full-stack development and software engineering
+## 🛠️ Tech Stack
 
-“Creating the future, one line of code at a time” ✨
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat&logo=php&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-e34c26?style=flat&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat&logo=javascript&logoColor=black)
 
-<div align="center">
-  
-Hello World! 👋
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Open+Source+Contributor;Student+at+Universitas+Dharma+Andalas;Web+Developer;Java+Enthusiast)](https://git.io/typing-svg)
+## 🚀 Featured Projects
 
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [PPW2 E-commerce](https://github.com/sarahhhndfm/PPW2-Ecommerce-Project) | Full e-commerce app with cart, admin panel & order management | PHP, MySQL |
+| [UMKM Inventory](https://github.com/sarahhhndfm/UMKM-Inventory-Management-Java) | Desktop inventory & sales system for small businesses (PBO2 final project) | Java |
+| [Personal Landing Page](https://github.com/sarahhhndfm/Personal-Landing-Page-PPW1) | Responsive profile page with certificates | CSS, HTML |
+| [CRUD Application](https://github.com/sarahhhndfm/crud) | Database-backed CRUD system for information management | Java |
 
-![Profile Views](https://komarev.com/ghpvc/?username=sarahhhndfm&label=Profile%20views&color=F85D7F&style=flat)
+---
 
-📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahhhndfm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![Nada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahhhndfm&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=888888)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarahhhndfm&theme=radical&hide_border=true&background=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhhndfm&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhhndfm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+---
 
-</div>
+## 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-fitria-muyassarah-7b3379305/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/SarahRa871857)
 
-🔥 Contribution Activity
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarahhhndfm&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+*"Creating the future, one line of code at a time" ✨*
