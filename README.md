@@ -33,9 +33,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Extra — ahead of curriculum 🔥** *(Mobile Programming baru di sem 7)*
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-A97CFD?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
