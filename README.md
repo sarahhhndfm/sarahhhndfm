@@ -5,10 +5,6 @@
 
 **S1 Sistem Informasi · Universitas Dharma Andalas · Padang, Indonesia 🇮🇩**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A0522D&center=true&vCenter=true&width=500&lines=💻+Web+Developer+—+PHP%2C+JS%2C+HTML%2FCSS;📱+Building+Android+apps+with+Kotlin;🗄️+Database+%26+OOP+enthusiast;🌱+Semester+6+—+always+building+something" alt="Typing SVG" />
-</a>
-
 </div>
 
 ---
@@ -35,17 +31,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-A97CFD?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarahhhndfm&show_icons=true&hide_border=true&bg_color=fdf6ec&title_color=a0522d&icon_color=c8864e&text_color=6b4226" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhhndfm&layout=compact&hide_border=true&bg_color=fdf6ec&title_color=a0522d&text_color=6b4226" />
-
-</div>
 
 ---
 
